@@ -10,7 +10,7 @@ My first repository
 - Deep dive into the mind of a killer  
 - Strong performances and suspenseful pacing
 
-> “The scariest monsters are the ones that hide in plain sight.”
+> “The scariest persons are the ones that hide in plain sight.”
 
 ## 🎥 2. *Pinocchio*
 
@@ -20,7 +20,7 @@ My first repository
 - Beautiful visuals and emotional depth  
 
 **Favorite Quote:**  
-> “A lie keeps growing until it’s as plain as the nose on your face.”
+> “How scary a person can be when they don't realize the gravity of the words they speak.”
 
 ## 🔗 Learn More
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
